@@ -7,5 +7,5 @@
 ### About me
 
 I am a programming student ✍,     
-💻 currently working as a Developer at [@Prefeitura Municipal de Porto Alegre](https://prefeitura.poa.br/).
+💻 Currently working as a Developer at [@Prefeitura Municipal de Porto Alegre](https://prefeitura.poa.br/).
 
