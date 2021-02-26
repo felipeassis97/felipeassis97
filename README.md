@@ -6,6 +6,6 @@
 
 ### About me
 
-I am a programming student Javascript | Node.js | React  ✍     
-💻 Currently working as a Developer at [@Prefeitura Municipal de Porto Alegre](https://prefeitura.poa.br/).
+I am a programming student Javascript | Node.js | React | Flutter ✍     
+💻 Currently working as a Developer at [@SoftDesign](https://softdesign.com.br/).
 
