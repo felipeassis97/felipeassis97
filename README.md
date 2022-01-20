@@ -6,6 +6,6 @@
 
 ### About me
 
-I am a programming student Javascript | Node.js | React | Flutter ✍     
+I am a programming student Dart | Clean Architecture | Flutter ✍     
 💻 Currently working as a Developer at [@SoftDesign](https://softdesign.com.br/).
 
