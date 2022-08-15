@@ -1,7 +1,10 @@
-# Hi, welcome to my profile!
+<h1 align="center">Hi 👋, I'm Felipe Assis</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=green&link=https://github.com/felipeassis97)](https://github.com/felipeassis97)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-assis-041675153/)](https://www.linkedin.com/in/felipe-assis-041675153/)
+<div> 
+  <a href = "mailto:felipeassis97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-assis-041675153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 
 ### About me
