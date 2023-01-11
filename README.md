@@ -14,6 +14,7 @@ Flutter | Dart | Clean Architecture ✍
 💻 Currently working as a Developer at [@SoftDesign](https://softdesign.com.br/).
 
 
+  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
 
@@ -25,5 +26,4 @@ Flutter | Dart | Clean Architecture ✍
   
   </div>
   
-  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
 
