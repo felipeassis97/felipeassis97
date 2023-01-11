@@ -7,9 +7,23 @@
 </div>
 
 
+
 ### About me
 
 Flutter | Dart | Clean Architecture ✍     
 💻 Currently working as a Developer at [@SoftDesign](https://softdesign.com.br/).
 
-![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+
+
+<div> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeassis97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="padding: 20px">
+  &nbsp;&nbsp;
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeassis97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  
+  </div>
+  
+  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+
